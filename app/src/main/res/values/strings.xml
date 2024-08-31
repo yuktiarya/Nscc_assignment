@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NSCC Assignment</string>
+    <string name="title_activity_login_screen">Login_screen</string>
+    <string name="title_activity_details_screen">Details_screen</string>
+</resources>
